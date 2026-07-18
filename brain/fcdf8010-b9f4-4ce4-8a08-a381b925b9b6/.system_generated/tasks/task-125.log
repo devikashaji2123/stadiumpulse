@@ -1,0 +1,19 @@
+No valid GEMINI_API_KEY found. Operating in local intelligent simulation mode.
+
+=============================================================
+StadiumPulse AI Emergency Coordinator Server running!
+Dashboard Access: http://localhost:5000
+Simulator Mode:  ACTIVE (Zero-Config)
+=============================================================
+
+file:///C:/Users/devik/.gemini/antigravity/scratch/stadiumpulse-ai/server.js:121
+      sseClients = sseClients.filter(c => c.id !== clientId);
+                 ^
+
+TypeError: Assignment to constant variable.
+    at IncomingMessage.<anonymous> (file:///C:/Users/devik/.gemini/antigravity/scratch/stadiumpulse-ai/server.js:121:18)
+    at IncomingMessage.emit (node:events:518:28)
+    at emitCloseNT (node:internal/streams/destroy:147:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+
+Node.js v20.18.2
