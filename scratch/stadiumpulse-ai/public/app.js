@@ -16,7 +16,7 @@ const {
 } = Recharts;
 
 // Setup API Base URL (if hosted separately from backend)
-const API_BASE = window.location.origin.includes('localhost') || window.location.origin.includes('127.0.0.1') ? '' : 'https://YOUR_BACKEND_URL_HERE';
+const API_BASE = window.location.origin.includes('localhost') || window.location.origin.includes('127.0.0.1') ? '' : 'https://stadiumpulse-55gu.onrender.com';
 
 // ----------------------------------------------------
 // UI Icon components (Clean, Inline SVGs)
