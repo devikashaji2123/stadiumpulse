@@ -191,18 +191,8 @@ https://stadiumpulse-55gu.onrender.com
 Add screenshots inside a folder named:
 
 ```
-screenshots/
+screenshots/"C:\Users\devik\OneDrive\Pictures\Screenshots\dashboard.png"
 ```
-
-Example:
-
-```
-screenshots/homepage.png
-screenshots/dashboard.png
-screenshots/emergency-dispatch.png
-```
-
----
 
 # 📖 How It Works
 
