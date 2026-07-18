@@ -85,8 +85,8 @@ Create a `.env` file.
 Example:
 
 ```env
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-FIREBASE_PROJECT_ID=YOUR_FIREBASE_PROJECT_ID
+
+
 ```
 
 > Do **not** upload your `.env` file to GitHub.
